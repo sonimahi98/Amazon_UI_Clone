@@ -154,31 +154,80 @@ font-size: 2.3rem;
     background-color:#fcd4ec;
 }
 .box{
-    height: 400px;
+    height: 370px;
     width:23%;
-    border: 2px solid black;
     background-color: white;
     padding: 20px 0px 15px;
 }
-.box-1-1{
+.box-1{
     margin: 0 1rem 0 1rem;
     font-size: 0.9rem;
-    font-color:#0F1111;
+    color:#0F1111;
 }
 .personalcare-img{
     height:300px;
     background-size: cover;
     margin: 1rem 0 1rem 0;
 }
-a{
+.box-1 a{
     color: #007185;
 }
 /* footer */
-.foot-panel{
+
+.foot-panel-1{
     background-color: #37475a;
     color: white;
-    height:3rem;
+    Height:2.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.foot-panel-2{
+    height: 300px;
+    background-color: #222f3d;
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin:20px;
+}
+.foot-panel-2 p{
+    font-weight: 700;
+    font-size: 1rem;
+}
+ul a{
+    display: block;
+    font-size: 14px;
+    color:#DDDDDD;
+    margin-top: 10px;
+
+}
+.foot-panel-3{
+    background-color: #222f3d;
+    color: #DDDDDD;
+    height:70px;
+    border-top: 0.1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    background-image: url(amazon-logo-transparent.png);
+    background-size: cover;
+    height:50px;
+    width: 100px;
+}
+.foot-panel-4{
+    background-color: #0F1111;
+    color:#DDDDDD;
+    height:80px;
+    text-align: center;
+    font-size: 0.8rem;
+}
+.pages{
+    padding-top: 10px;
+}
+.pages-2{
+    padding:5px;
 }
