@@ -188,6 +188,9 @@ font-size: 2.3rem;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color:#fcd4ec;
+    background: linear-gradient(#fcd4ec, rgb(200, 232, 236));
+    
+
 }
 .box{
     height: 370px;
