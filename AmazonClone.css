@@ -18,7 +18,7 @@
     width:7rem;
 }
 .navlogo>.logo{
-    background-image:url("amazon-logo-transparent.png");
+    background-image:url("./Images/amazon-logo-transparent.png");
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -161,7 +161,7 @@ font-size: 2.3rem;
 }
 /* mid-sec */
 .mid-sec{
-    background-image: url(main\ image.jpg);
+    background-image: url(./Images/main\ image.jpg);
     height: 18.7rem;
     background-size: cover;
     display:flex;
@@ -188,7 +188,7 @@ font-size: 2.3rem;
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color:#fcd4ec;
-    background: linear-gradient(#fcd4ec, rgb(200, 232, 236));
+    background: linear-gradient(#fcd4ec, rgb(209, 235, 238));
     
 
 }
